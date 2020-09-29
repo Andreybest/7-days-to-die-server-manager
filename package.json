@@ -87,7 +87,7 @@
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.3",
     "nyc": "^15.0.1",
-    "sails-disk": "^1.1.2",
+    "sails-disk": "^2.1.0",
     "sequelize": "^6.3.5",
     "sequelize-cli": "^6.2.0",
     "sinon": "^9.0.2",
